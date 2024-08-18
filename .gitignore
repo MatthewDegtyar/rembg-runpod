@@ -1,0 +1,4 @@
+.env
+test_commands.txt
+venv/
+venv/*
